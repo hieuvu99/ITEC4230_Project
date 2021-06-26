@@ -1,5 +1,5 @@
 # ITEC4230_Project
-This is project belong to Hieuvu which used for academic purpose.
+This project belonged to Hieuvu which used for academic purpose.
 it contain following stuff:
 1. Import Data, Library
 2. Data Cleaning: Check for unqualified point(NUll, noisy data), change the value which are not numeric into Category data
